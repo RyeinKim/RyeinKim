@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Static Badge](https://img.shields.io/badge/Dev_blog-181717?logo=github&link=https%3A%2F%2Fryeinkim.github.io%2F)
 
 <!--
 **RyeinKim/RyeinKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
