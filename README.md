@@ -5,12 +5,12 @@ Backend Developer
 
 <br>
 
-Interest
+Skills
 ---
 
-- Express js
-- Java Spring
-- Database
+- Nest.js, Express.js
+- Next.js
+- MySQL, AWS-EC2
 
 <br>
 
