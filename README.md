@@ -1,16 +1,31 @@
-Backend Developer
+Software Engineer
 ---
 
-- Student
+- Backend Engineer, Prompt Engineer, STARTUPCCODE
 
 <br>
 
 Skills
 ---
 
-- Nest.js, Express.js
-- Next.js
-- MySQL, AWS-EC2
+- Nest.js (TypeScript)
+- DevOps
+  - AWS
+  - Docker
+  - k8s
+  - CI/CD (Jenkins, Github Actions)
+
+**ETC**
+---
+
+- Web Frontend
+  - Vanila JS, HTML, CSS
+  - React.js
+
+- AI
+  - CNN
+  - LLM
+  - LangChain
 
 <br>
 
