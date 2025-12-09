@@ -1,7 +1,7 @@
 Software Engineer
 ---
 
-- Backend Engineer, Prompt Engineer, STARTUPCCODE
+- Software Engineer (Backend), STARTUPCODE
 
 <br>
 
@@ -13,7 +13,7 @@ Skills
   - AWS
   - Docker
   - k8s
-  - CI/CD (Jenkins, Github Actions)
+  - CI/CD (Github Actions)
 
 **ETC**
 ---
@@ -26,6 +26,10 @@ Skills
   - CNN
   - LLM
   - LangChain
+ 
+- BlockChain
+  - Solidity
+  - DApp
 
 <br>
 
